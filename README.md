@@ -1,2 +1,2 @@
 # Maji-Ndogo-SQL---Part-4
-In the concluding phase of my integrated project, I leveraged the full spectrum of SQL tools to finalize data analysis, derive actionable insights
+In the concluding phase of my integrated project, I leveraged the full spectrum of SQL tools to finalize data analysis, derive actionable insights,classify water sources, and prepare a comprehensive dataset for the engineering team. This process showcased my ability to seamlessly integrate filters, aggregations, functions, and joins for effective data manipulation. Additionally, I demonstrated proficiency in employing subqueries, Common Table Expressions (CTEs), and views to tackle complex data challenges, ultimately providing valuable solutions for real-world problem-solving.
